@@ -1,7 +1,7 @@
-<img width="1164" height="709" alt="Screenshot 2025-10-15 221815" src="https://github.com/user-attachments/assets/b5d45959-0f3b-476c-a9de-8828135912cd" /># Data-Analysis-Blinkit-Data-Dashboard-
+
 The Blinkit Sales Dashboard provides an interactive visualization of sales performance, product distribution, and outlet trends. It helps business stakeholders quickly analyze key metrics such as total sales, average sales, customer ratings, and item performance across various outlet types and sizes.
 Dashboard:
-
+<img width="1164" height="709" alt="Screenshot 2025-10-15 221815" src="https://github.com/user-attachments/assets/b5d45959-0f3b-476c-a9de-8828135912cd" /># Data-Analysis-Blinkit-Data-Dashboard-
 
 
 🚀 Key Insights
